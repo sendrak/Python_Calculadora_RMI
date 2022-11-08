@@ -10,3 +10,5 @@ pip install pyro4
 
 Deve ser mantido rodando pelo cmd durante toda a execução o comando para execução do NameServer:
 python -m Pyro4.naming
+
+Deve rodar as duas aplicações .py em janelas do cmd diferentes.
